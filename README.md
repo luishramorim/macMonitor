@@ -56,15 +56,6 @@ cd macMonitor</code></pre>
   <h2>Screenshots</h2>
   <img width="712" alt="Screenshot 2025-02-19 at 15 01 56" src="https://github.com/user-attachments/assets/5eb15637-8b97-4aaa-9cd0-8949c6461454" />
   <img width="842" alt="Screenshot 2025-02-19 at 15 02 40" src="https://github.com/user-attachments/assets/3a4842d3-7308-40f4-831a-323d7daa639c" />
-  
-
-  <h2>Roadmap</h2>
-  <ul>
-    <li>Display CPU usage graphs</li>
-    <li>Improve multi-monitor support</li>
-    <li>System usage history</li>
-    <li>Report export</li>
-  </ul>
 
   <h2>Contributing</h2>
   <ol>
